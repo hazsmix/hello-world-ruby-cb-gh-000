@@ -1,1 +1,1 @@
-puts "Hello motherfuckers!"
+puts "Hello world!"
